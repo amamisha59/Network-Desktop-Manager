@@ -20,6 +20,9 @@ Interact with server/client and perform some operations on the client (request f
   Communication between the client and server is achieved through ObjectInputStream and ObjectOutputStream, allowing the exchange of Java objects.
   </li>
 </ol>
+<h2>output</h2>
+<img src="https://github.com/amamisha59/Network-Desktop-Manager/blob/main/Screenshot%20(160).png" alt="output1" style="height:200px;width:700px">
+<img src="https://github.com/amamisha59/Network-Desktop-Manager/blob/main/Screenshot%20(162).png" alt="output1" style="height:200px;width:700px">
 <h2>Conclusion</h2>
 <ul>
   <li>The project provides a foundation for a file and folder management system over a local network.</li>
